@@ -8,9 +8,15 @@ Beranggotakan :
 
 
 <h1 align="center">Proses Terbentuknya Citra Digital <br> Pada X-Ray</h1>
-<img src="/X-Ray1.jpeg" width="20%" height="20%">
+
+<img src="/X-Ray1.jpg" width="50%" height="50%" align="center">
+
 Disini kami akan membahas 
-https://youtu.be/ZSByvNp5hKU
-https://youtu.be/blmQs3qhnxs
-https://youtu.be/pJWBmX1KaKw
-https://youtu.be/xGWLp9W1_3A
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/ZSByvNp5hKU)
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/blmQs3qhnxs)
+
+[![watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/pJWBmX1KaKw)
+
+[![watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/xGWLp9W1_3A)
