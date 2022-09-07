@@ -6,10 +6,21 @@ Beranggotakan :
 - Putri Tari Lestari ( 2110131220001 )
 - Yuliana ( 2110131220001 )
 
-
-<h1 align="center">Proses Terbentuknya Citra Digital <br> Pada X-Ray</h1>
+# X-Ray
 
 <img src="/X-Ray1.jpg" width="50%" height="50%" align="center">
+
+Sinar-X merupakan jenis radiasi gelombang elektromagnetik. Prosedur pemeriksaan ini membantu dokter dalam  mendiagnosis, memantau, dan mengobati berbagai kondisi medis. Pencitraan X-ray akan menciptakan gambar bagian dalam tubuh. Gambar-gambar ini akan menunjukkan bagian-bagian tubuh dalam berbagai nuansa hitam dan putih. 
+
+Gambar hitam putih ini dihasilkan karena jaringan-jaringan tubuh menyerap jumlah radiasi yang berbeda. Misalnya, kalsium dalam tubuh menyerap sinar-X paling banyak, sehingga tulang tampak putih. Sementara lemak dan jaringan lunak, seperti darah, kulit, lemak, dan otot, akan berwarna abu-abu pada gambar pemeriksaan. Sementara itu, warna hitam menandakan x-ray mengenai udara atau gas.
+
+Prosedur X-ray ini dilakukan dengan cepat dan tanpa rasa sakit. Pemeriksaan X-ray bertujuan untuk membantu dokter mendiagnosis dan memantau beberapa kondisi tubuh. Misalnya, keluhan seperti infeksi, pembusukan gigi, patah tulang, radang sendi, osteoporosis, ataupun kanker tulang.
+
+Meski tujuan utama X-ray digunakan untuk menelisik kondisi tulang dan sendi, tapi terkadang prosedur ini juga dipakai untuk mendeteksi masalah kesehatan lainnya. Contohnya, jaringan lunak, seperti organ internal, memeriksa adanya penyakit atau infeksi paru-paru, kanker payudara, masalah saluran pencernaan, pembesaran jantung, pembuluh darah yang tersumbat, bentuk tulang belakang yang abnormal, masalah ketika menelan, hingga benda yang tak sengaja tertelan ke dalam tubuh.
+
+Pemeriksaan x-ray juga diketahui memiliki efek samping pada ibu hamil, terlebih bila x-ray dilakukan pada bagian tubuh yang berdekatan dengan rahim dan janin. Pada masa awal kehamilan, paparan radiasi x-ray dapat meningkatkan risiko terjadinya keguguran dan bayi terlahir cacat. Sementara pemeriksaan x-ray yang dilakukan pada usia kandungan di atas 2 bulan, akan berisiko menyebabkan bayi lahir dengan masalah intelektual. Oleh karena itu, ibu hamil sebaiknya tidak menjalani pemeriksaan x-ray, kecuali dalam kondisi darurat disertai dengan izin dokter.
+
+<h1 align="center">Proses Terbentuknya Citra Digital <br> Pada X-Ray</h1>
 
 Disini kami akan membahas 
 
