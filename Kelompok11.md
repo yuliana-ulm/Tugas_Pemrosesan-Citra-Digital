@@ -22,7 +22,7 @@ Pemeriksaan x-ray juga diketahui memiliki efek samping pada ibu hamil, terlebih 
 
 <h1 align="center">Proses Terbentuknya Citra Digital <br> Pada X-Ray</h1>
 
-Disini kami akan membahas 
+Disini kami akan membahas bak itu proses, pengertian dan juga konsep secara visual terbentuknya citra digital melalui X-Ray:
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/ZSByvNp5hKU)
 
@@ -33,7 +33,6 @@ Disini kami akan membahas
 [![watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/xGWLp9W1_3A)
 
 Setelah memahami mengenai pengertian dari cirtra digital melalui video diatas, maka akan kami berikan contoh tentang pemrosesan citra digital pada X-Ray.
-Jadi X-Ray Adalah....(Pengertian, Cara Kerja dan Kegunaan dikehidupan sehari-hari)
 
 ## Proses Menghasilkan gambar pada bidang elektron 
   1. Elektron ditembakkan dari belakang tabung gambar menuju bagian dalam tabung yang dilapis elemen yang terbuat dari bagian yang memiliki kemampuan untuk memendarkan cahaya.
