@@ -4,3 +4,4 @@
   - Putri Tari Lestari
   - Yuliana
 - Tugas 2 : Tugas menjelaskan mengenai citra digital 32 x 32 bit
+- Tugas 3 : Tugas menjelaskan tentang method grayscale
