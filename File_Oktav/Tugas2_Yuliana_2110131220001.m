@@ -1,4 +1,3 @@
-```matlab
 gambar = imread('C:\Tugas_1_Yuliana\img\Yuliana.jpeg');
 imshow(gambar);
 R = gambar(:,:,1);
@@ -19,4 +18,3 @@ subplot(1,2,2);imhist(Blue);title('Blue histogram');
 figure(4);
 subplot(1,2,1);imshow(gambar);title('Gambar Asli');
 subplot(1,2,2);imhist(gambar);title('Gambar Asli histogram');
-```
