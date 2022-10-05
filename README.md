@@ -5,3 +5,4 @@
   - Yuliana
 - Tugas 2 : Tugas menjelaskan mengenai citra digital 32 x 32 bit
 - Tugas 3 : Tugas menjelaskan tentang method grayscale
+- Tugas 4 : Tugas menjelaskan tentang proses terbentuknya pola dithering dan pola pathering
