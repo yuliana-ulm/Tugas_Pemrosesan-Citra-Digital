@@ -6,3 +6,6 @@
 - Tugas 2 : Tugas menjelaskan mengenai citra digital 32 x 32 bit
 - Tugas 3 : Tugas menjelaskan tentang method grayscale
 - Tugas 4 : Tugas menjelaskan tentang proses terbentuknya pola dithering dan pola pathering
+- Tugas 5 : Tugas membuat Pseudo Code dari pola Patterning, Ditthering, Bit Plane Slacing, dan Histogram Equalization
+- Tugas 6 : Tugas implementasi Bit Splacing pada OKTAV dan pembuatan Steganografi (Pesan Rahasia)
+- Tugas 7 : Tugas menjelaskan spatial dan frequency domain 
