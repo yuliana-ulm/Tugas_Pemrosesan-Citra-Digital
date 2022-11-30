@@ -9,3 +9,9 @@
 - Tugas 5 : Tugas membuat Pseudo Code dari pola Patterning, Ditthering, Bit Plane Slacing, dan Histogram Equalization
 - Tugas 6 : Tugas implementasi Bit Splacing pada OKTAV dan pembuatan Steganografi (Pesan Rahasia)
 - Tugas 7 : Tugas menjelaskan spatial dan frequency domain 
+- Tugas 8 : Tugas 
+- Tugas 9 : Tugas Kelompok 6 Tentang Smoothing dan Sharping
+  <br>Adapun Anggotanya adalah:
+  - Muhammad Ramadhani
+  - Sesilia Miranda
+  - Yuliana
